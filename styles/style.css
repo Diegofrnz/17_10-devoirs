@@ -1,0 +1,197 @@
+/*******************
+
+        BODY
+
+********************/
+body{
+  background-color:black;
+  font-family: futura st;
+}
+a:hover{
+  text-shadow: 1px 1px black;
+  text-decoration: underline;
+  text-transform: none;
+}
+/*******************
+
+        HEADER
+
+********************/
+header#header{
+  background-color:white;
+  border-radius: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+  border: 2px black solid;
+
+}
+
+header#header img#logo1{
+  float: left;
+  width: 120px;
+  margin-left: 350px;
+  margin-top: 18px;
+}
+
+header#header img#logo2{
+  float: right;
+  width: 120px;
+  margin-right: 350px;
+  margin-top: 40px;
+}
+
+header h1{
+  margin: 0;
+  font-size: 100px;
+  margin-left: 564px;
+  font-style: italic;
+  font-family: futura std;
+}
+
+/*******************
+
+        MAIN
+
+********************/
+
+main#main div.gauche{
+  margin:20px 15px 15px 250px;
+  width: 576px;
+  height: 630px;
+  float:left;
+  background-color:white;
+  border-radius: 10px;
+  border: 2px black solid;
+}
+
+main#main img{
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-right: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+main#main h3{
+  width: 500px;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  margin:left: 10px;
+  color: black;
+
+}
+
+main#main h3#t2{
+  margin-top: 180px;
+}
+
+main#main h3#t3{
+  margin-top: 180px;
+}
+
+main#main div.droite{
+  margin:20px 0px 15px 0px;
+  width: 576px;
+  height: 630px;
+  float:left;
+  background-color:white;
+  border-radius: 10px;
+  border: 2px black solid;
+
+  }
+
+  main#main img#logochaussure{
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+  }
+
+  main#main img#justdoit{
+    width: 500px;
+    height: 150px;
+    margin-left: 40px;
+  }
+
+  main#main h2#nouveauté{
+    font-family: futura std;
+    font-size: 50px;
+    margin-left: 120px;
+  }
+  main#main img#airmax{
+    width: 320px;
+    height: 240px;
+    margin-left: 100px;
+    padding-bottom: 40px;
+  }
+
+  main#main p{
+    font-family: futura std;
+    margin-left: 10px;
+  }
+
+  /*******************
+
+          FOOTER
+
+  ********************/
+
+  footer#footer div.bas{
+    margin:auto;
+    width: 1260px;
+    height: 160px;
+    margin-left: 200px;
+    float: left;
+    background-color:white;
+    border-radius: 10px;
+    border: 2px black solid;
+  }
+
+  div.bas h3#tfb{
+    margin-left: 10px;
+    margin-right: 0px;
+    color:black;
+    width:400px;
+    float:left;
+  }
+
+  div.bas h3#ttwitter{
+    margin-right: 40px;
+    color:black;
+    float:left;
+    width: 350px;
+
+  }
+
+  div.bas h3#tinsta{
+    margin-left: 480px;
+    color: black;
+    width: 350px;
+  }
+
+  footer#footer img#logoinsta{
+    width: 100px;
+    height: 100px;
+    padding-left: 373px;
+
+  }
+
+  footer#footer img#logotwitter{
+    width: 100px;
+    height: 80px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-left: 310px;
+  }
+
+  footer#footer img#logofb{
+    width: 100px;
+    height: 100px;
+    padding-left: 110px;
+    padding-top: 10px;
+  }
+
+  footer#footer h4{
+    color:black;
+  }
